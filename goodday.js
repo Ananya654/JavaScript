@@ -1,6 +1,6 @@
-let hour = 12
+let hour = 19
 if (hour < 18) {
-    greeting = "Good day";
+    console.log('greeting = "Good day"')
   } else {
-    greeting = "Good evening";
+    console.log('greeting = "Good evening"')
   }
